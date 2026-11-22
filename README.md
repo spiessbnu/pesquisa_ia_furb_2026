@@ -13,12 +13,13 @@ A pesquisa foi conduzida pelo NET – Núcleo de Estudos da Tecnociência, assoc
 - Aplicado a docentes e estudantes da FURB entre 25/11/2025 e 13/04/2026.
 - 406 respostas válidas: 89 docentes e 317 estudantes.
 
-O relatório de resultados descreve o instrumento, os procedimentos, os resultados e as limitações.
+O [relatório de resultados](relatorio/Relatorio_IA_FURB_2026.pdf) (PDF) descreve o instrumento, os procedimentos, os resultados e as limitações.
 
 ## O que está neste repositório
 
 | Pasta ou arquivo | Conteúdo |
 |---|---|
+| `relatorio/Relatorio_IA_FURB_2026.pdf` | Relatório de resultados, versão para divulgação |
 | `analise/01_limpeza.py` … `06_revisao_final.py` | Scripts da análise, a executar nessa ordem |
 | `analise/livro_de_codigos.md` | Codificação das variáveis e decisões da coordenação |
 | `analise/resultados/*.xlsx` | Tabelas agregadas de cada etapa (amostra, índices, descritiva, testes, modelos e checagens) |
@@ -59,7 +60,7 @@ SPIESS, Maiko Rafael; DOGNINI, Ana Maria Eigen Facchini. *Percepções e usos da
 ## Licença
 
 - **Código** (`analise/*.py` e `requirements.txt`): licença MIT. Veja [`LICENSE`](LICENSE).
-- **Textos, tabelas e figuras** (este README, o livro de códigos e o conteúdo de `analise/resultados/`): licença [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.pt-br). Veja [`LICENSE-CC-BY-4.0.txt`](LICENSE-CC-BY-4.0.txt). Ao reutilizar esse material, cite a pesquisa como indicado acima.
+- **Textos, tabelas e figuras** (o relatório em `relatorio/`, este README, o livro de códigos e o conteúdo de `analise/resultados/`): licença [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.pt-br). Veja [`LICENSE-CC-BY-4.0.txt`](LICENSE-CC-BY-4.0.txt). Ao reutilizar esse material, cite a pesquisa como indicado acima.
 
 ## Uso de IA
 
