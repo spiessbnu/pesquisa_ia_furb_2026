@@ -1,0 +1,9 @@
+# Microdados: não divulgar (ver README)
+analise/dados/
+Percepções e usos da Inteligência Artificial*.xlsx
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
