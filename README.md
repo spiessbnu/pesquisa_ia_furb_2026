@@ -56,6 +56,11 @@ Os scripts criam `analise/dados/` (microdados, ignorada pelo Git) e atualizam `a
 
 SPIESS, Maiko Rafael; DOGNINI, Ana Maria Eigen Facchini. *Percepções e usos da Inteligência Artificial na Universidade Regional de Blumenau*: relatório de resultados. Blumenau: FURB, Núcleo de Estudos da Tecnociência, 2026.
 
+## Licença
+
+- **Código** (`analise/*.py` e `requirements.txt`): licença MIT. Veja [`LICENSE`](LICENSE).
+- **Textos, tabelas e figuras** (este README, o livro de códigos e o conteúdo de `analise/resultados/`): licença [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.pt-br). Veja [`LICENSE-CC-BY-4.0.txt`](LICENSE-CC-BY-4.0.txt). Ao reutilizar esse material, cite a pesquisa como indicado acima.
+
 ## Uso de IA
 
 Foram usados o ChatGPT e o Claude na análise estatística, na produção dos gráficos e na diagramação. Todos os resultados foram conferidos pela equipe.
